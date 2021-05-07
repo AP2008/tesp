@@ -1,14 +1,1 @@
 flask==1.0.2
-plotly
-dash
-dash_daq
-dash_table
-dash_bootstrap_components
-dash_core_components
-dash_html_components
-pandas
-bs4
-cherrypy
-werkzeug
-requests
-xlsxwriter
